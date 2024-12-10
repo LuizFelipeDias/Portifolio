@@ -1,1 +1,1 @@
-link: luizfelipe-two.vercel.app
+luizfelipe-two.vercel.app
