@@ -83,39 +83,38 @@ document.querySelector('#app').innerHTML = `
       </div>
     </div>
 
-    <section id="Experience" class="mt-20 mb-20 pt-8">
-      <div id="Experience">
-        <h1 class="text-gray-950 dark:text-gray-100 text-5xl font-bold tracking-tight mb-10">Experience</h1>
-        
-        <!-- Card 1 -->
-        <div id="cards" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 px-4 sm:px-10 lg:px-20">
-          <div id="block" class="mt-8 shadow-md dark:bg-zinc-900 bg-zinc-100 rounded-xl border-2 border-solid border-zinc-400 dark:border-zinc-700 hover:border-zinc-600 dark:hover:border-white transform hover:scale-103 transition-transform">
-            <img class="p-4 rounded-3xl" src="/Visteon.png" alt="Visteon">
-            <h1 class="dark:text-gray-100 text-4xl font-bold tracking-tight mx-5">Visteon</h1>
-            <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
-              A global automotive technology company specializing in designing and manufacturing cockpit electronics and connected car solutions.
-            </p>
-            <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
-              There, my function was as a full-stack developer. In this period, I worked with some frameworks and languages, and these details are in the skills section.
-            </p>
-            <div class="flex mt-4 mx-5 mb-5"></div>
-          </div>
+  <section id="Experience" class="mt-20 mb-20 pt-8">
+    <div id="Experience">
+      <h1 class="text-gray-950 dark:text-gray-100 text-5xl font-bold tracking-tight mb-10">Experience</h1>
+      
+      <!-- Card 1 -->
+      <div id="cards" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 px-4 sm:px-10 lg:px-20">
+        <div id="block" class="mt-8 shadow-md dark:bg-zinc-900 bg-zinc-100 rounded-xl border-2 border-solid border-zinc-400 dark:border-zinc-700 hover:border-zinc-600 dark:hover:border-white transform hover:scale-103 transition-transform">
+          <img class="p-4 rounded-3xl" src="/Visteon.png" alt="Visteon">
+          <h1 class="dark:text-gray-100 text-4xl font-bold tracking-tight mx-5">Visteon</h1>
+          <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
+            A global automotive technology company specializing in designing and manufacturing cockpit electronics and connected car solutions.
+          </p>
+          <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
+            There, my function was as a full-stack developer. In this period, I worked with some frameworks and languages, and these details are in the skills section.
+          </p>
+          <div class="flex mt-4 mx-5 mb-5"></div>
+        </div>
 
-          <!-- Card 2 -->
-          <div id="block" class="mt-8 shadow-md dark:bg-zinc-900 bg-zinc-100 rounded-xl border-2 border-solid border-zinc-400 dark:border-zinc-700 hover:border-zinc-600 dark:hover:border-white transform hover:scale-103 transition-transform">
-            <img class="p-4 rounded-3xl" src="/BeZ.jpg" alt="BeZ">
-            <h1 class="dark:text-gray-100 text-4xl font-bold tracking-tight mx-5">BeZ</h1>
-            <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
-              A global automotive technology company specializing in designing and manufacturing cockpit electronics and connected car solutions.
-            </p>
-            <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
-              There, my function was as an automation engineer. In this period, I worked with Python and libraries like openCV and pySerial.
-            </p>
-            <div class="flex mt-4 mx-5 mb-5"></div>
-          </div>
+        <!-- Card 2 -->
+        <div id="block" class="mt-8 shadow-md dark:bg-zinc-900 bg-zinc-100 rounded-xl border-2 border-solid border-zinc-400 dark:border-zinc-700 hover:border-zinc-600 dark:hover:border-white transform hover:scale-103 transition-transform">
+          <img class="p-4 rounded-3xl" src="/BeZ.jpg" alt="BeZ">
+          <h1 class="dark:text-gray-100 text-4xl font-bold tracking-tight mx-5">BeZ</h1>
+          <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
+           A company spcialspecializing in industrial automation.
+          <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
+            There, my function was as an automation engineer. In this period, I worked with Python and libraries like openCV and pySerial.
+          </p>
+          <div class="flex mt-4 mx-5 mb-5"></div>
         </div>
       </div>
-    </section>
+    </div>
+  </section>
 
 
     <section id="Projects" class="mt-20 mb-20 pt-8"><!-- added  py-10 for having the having section look better-->
