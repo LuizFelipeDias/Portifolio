@@ -97,6 +97,19 @@ document.querySelector('#app').innerHTML = `
             <div class="flex mt-4 mx-5 mb-5">
             </div>
           </div>
+
+        <h1 class="text-gray-950 dark:text-gray-100 text-5xl font-bold tracking-tight mb-10 ">Experience</h1><!-- commented text-center for having the text at left instead of center-->
+        <div id="cards" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 px-4 sm:px-10 lg:px-20">
+          <div id="block" class="mt-8 shadow-md dark:bg-zinc-900 bg-zinc-100 rounded-xl border-2 border-solid border-zinc-400 dark:border-zinc-700 hover:border-zinc-600 dark:hover:border-white  transform hover:scale-103 transition-transform">
+            <img class="p-4 rounded-3xl" src="/BeZ.jpg" alt="Recipe Finder">
+            <h1 class="dark:text-gray-100 text-4xl font-bold tracking-tight mx-5">Visteon</h1>
+            <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">A global automotive technology company specializing in designing and manufacturing cockpit electronics and connected car solutions.</p>
+            <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5"">
+              There, my function was as automation enginner. In this period, I worked with some Python and the libs like openCV, pySerial. 
+            </p>
+            <div class="flex mt-4 mx-5 mb-5">
+            </div>
+          </div>
         
       </div>
     </section>
@@ -258,10 +271,9 @@ document.querySelector('#app').innerHTML = `
               <path stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#f1f1f1" d="M6 21H18M12 3V17M12 17L17 12M12 17L7 12" id="Vector"></path>
             </g>
           </g>
-        </svg><a href="https://drive.google.com/uc?export=download&id=1C0Dq-nIWa7fXolxBtpERYXiLbd2FCjr3">
+        </svg>
         Resume</a>
         <div class="absolute opacity-0 -bottom-full rounded-md py-2 px-2 bg-black bg-opacity-70 left-1/2 -translate-x-1/2 group-hover:opacity-100 transition-opacity shadow-lg">
-          <a href="https://drive.google.com/uc?export=download&id=1C0Dq-nIWa7fXolxBtpERYXiLbd2FCjr3">Resume</a>
         </div>
       </button>
       </div>
