@@ -103,7 +103,7 @@ document.querySelector('#app').innerHTML = `
 
         <!-- Card 2 -->
         <div id="block" class="mt-8 shadow-md dark:bg-zinc-900 bg-zinc-100 rounded-xl border-2 border-solid border-zinc-400 dark:border-zinc-700 hover:border-zinc-600 dark:hover:border-white transform hover:scale-103 transition-transform">
-          <img class="p-4 rounded-3xl" src="/BeZ.jpg" alt="B&Z">
+          <img class="p-4 rounded-3xl" src="/B&Z.jpg" alt="B&Z">
           <h1 class="dark:text-gray-100 text-4xl font-bold tracking-tight mx-5">BeZ</h1>
           <p class="dark:text-gray-100 font-semibold text-md tracking-tight p-2 mx-5">
            A company spcialspecializing in industrial automation.
@@ -275,7 +275,7 @@ document.querySelector('#app').innerHTML = `
             </g>
           </g>
         </svg>
-        Resume</a>
+        Resume<a href="/assets/LuizFelipe_DiasdeAraujo_CurrículoAtual.pdf"></a>
         <div class="absolute opacity-0 -bottom-full rounded-md py-2 px-2 bg-black bg-opacity-70 left-1/2 -translate-x-1/2 group-hover:opacity-100 transition-opacity shadow-lg">
         </div>
       </button>
