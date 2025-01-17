@@ -265,7 +265,7 @@ document.querySelector('#app').innerHTML = `
     </div>
     <div class="flex items-center ml-4 my-4">
     </div>
-    <button class="cursor-pointer group relative flex gap-1.5 px-8 py-4 bg-black bg-opacity-80 text-[#f1f1f1] rounded-lg hover:bg-opacity-70 transition font-semibold shadow-md">
+      <button onclick="window.open('/assets/LuizFelipe_DiasdeAraujo_CurrículoAtual.pdf', '_blank')" class="cursor-pointer group relative flex gap-1.5 px-8 py-4 bg-black bg-opacity-80 text-[#f1f1f1] rounded-lg hover:bg-opacity-70 transition font-semibold shadow-md">
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24px" width="24px">
           <g stroke-width="0" id="SVGRepo_bgCarrier"></g>
           <g stroke-linejoin="round" stroke-linecap="round" id="SVGRepo_tracerCarrier"></g>
@@ -275,7 +275,7 @@ document.querySelector('#app').innerHTML = `
             </g>
           </g>
         </svg>
-        Resume<a href="/assets/LuizFelipe_DiasdeAraujo_CurrículoAtual.pdf" target="_blank" class="cursor-pointer group relative flex gap-1.5 px-8 py-4 bg-black bg-opacity-80 text-[#f1f1f1] rounded-lg hover:bg-opacity-70 transition font-semibold shadow-md">
+        Resume
         <div class="absolute opacity-0 -bottom-full rounded-md py-2 px-2 bg-black bg-opacity-70 left-1/2 -translate-x-1/2 group-hover:opacity-100 transition-opacity shadow-lg">
         </div>
       </button>
