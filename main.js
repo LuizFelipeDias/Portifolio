@@ -275,7 +275,7 @@ document.querySelector('#app').innerHTML = `
             </g>
           </g>
         </svg>
-        Resume<a href="/assets/LuizFelipe_DiasdeAraujo_CurrículoAtual.pdf"></a>
+        Resume<a src="/assets/LuizFelipe_DiasdeAraujo_CurrículoAtual.pdf"></a>
         <div class="absolute opacity-0 -bottom-full rounded-md py-2 px-2 bg-black bg-opacity-70 left-1/2 -translate-x-1/2 group-hover:opacity-100 transition-opacity shadow-lg">
         </div>
       </button>
